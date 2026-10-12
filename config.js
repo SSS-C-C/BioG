@@ -8,6 +8,6 @@
   NUNCA pongas la service_role key en este archivo.
 */
 window.BIOGESTION_CONFIG = {
-  supabaseUrl: "",
-  supabaseAnonKey: ""
+  supabaseUrl: "https://xccwsedhkdwkmdavtzhf.supabase.co/rest/v1/",
+  supabaseAnonKey: "sb_publishable_LPK0pv8UwVSx0v2SPcUlug_c37ssdX8"
 };
